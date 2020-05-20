@@ -1,6 +1,6 @@
 import scala.math.{Pi, pow}
 
-object main {
+object assignment1 {
   def main(args: Array[String]) = {
     println(temperature(celsius = 35))
     println(volumeOfSphere(radius = 5))
